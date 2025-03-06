@@ -5,5 +5,3 @@ Sharing expertise through [icodeguru](https://icodeguru.weebly.com/) with a focu
 ## LeetCode Lectures  
 - **Lecture 1:** [Watch on Facebook](https://www.facebook.com/watch/?v=1848412722678920)
 - **Lecture 2:** [Watch on Facebook](https://www.facebook.com/share/v/1HcnE3hGkF/)
-
-- 
