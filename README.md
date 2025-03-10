@@ -7,6 +7,7 @@ Teaching DSA questions with our teammates, sharing expertise through ICodeGuru w
 - **Lecture 2:** [Watch on Facebook](https://www.facebook.com/share/v/1HcnE3hGkF/)
 - **Lecture 3:** [Watch on Facebook](https://www.facebook.com/share/v/15sLoLWrJy/)
 - **Lecture 4:** [Watch on Facebook](https://www.facebook.com/share/v/1aLncZ9fXc/)
+- **Lecture 5:** [Watch on Facebook](https://www.facebook.com/share/v/16DKnM9eTc/) 2nd Question
 
 
 ## Machine Learning Workshops
