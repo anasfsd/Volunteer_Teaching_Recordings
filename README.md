@@ -16,3 +16,6 @@ Teaching DSA questions with our teammates, sharing expertise through ICodeGuru w
 
 ## Machine Learning Workshops
   - **Lecture:** [Watch on Facebook](https://www.facebook.com/share/v/1BGwSQ8BSh/)
+
+
+## Web Scraping Workshops
