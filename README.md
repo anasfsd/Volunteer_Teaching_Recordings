@@ -10,6 +10,7 @@ Teaching DSA questions with our teammates, sharing expertise through [iCodeGuru]
 - **Lecture 5:** [Watch on Facebook](https://www.facebook.com/share/v/16DKnM9eTc/) 2nd Question
 - **Lecture 6:** [Watch on Facebook](https://www.facebook.com/share/v/1BuimWsAYb/)
 - **Lecture 7:** [Watch on Facebook](https://www.facebook.com/share/v/1AS7H8jc9C/)
+- **Lecture 8:** [Watch on Facebook](https://www.facebook.com/share/v/1BMBaAFct2/)
 
 
 
