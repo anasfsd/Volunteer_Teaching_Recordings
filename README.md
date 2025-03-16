@@ -22,5 +22,5 @@ Teaching DSA questions with our teammates, sharing expertise through [iCodeGuru]
 - **Workshop:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/970843695209248/)
 
 
-## FAANG Interview Preparation Workshop
+## FAANG Interview Preparation Workshops
   
