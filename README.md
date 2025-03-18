@@ -16,6 +16,9 @@ Teaching DSA questions with our teammates, sharing expertise through [iCodeGuru]
 
 
 ## Machine Learning Workshops
+
+📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-techworkshops-matplotlib-activity-7303767490189217792-wPRv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
+
   - **Workshop:** [Watch on Facebook](https://www.facebook.com/share/v/1BGwSQ8BSh/)
 
 
