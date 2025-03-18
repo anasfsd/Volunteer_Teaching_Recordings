@@ -20,6 +20,9 @@ Teaching DSA questions with our teammates, sharing expertise through [iCodeGuru]
 
 
 ## Web Scraping Workshops
+
+📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/muhammad-anas-744830270_icodeguru-workshops-webscraping-activity-7306315789366714369-F-Dr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
+
 - **Workshop:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/970843695209248/)
 
 
