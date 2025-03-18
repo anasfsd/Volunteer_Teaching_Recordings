@@ -23,7 +23,7 @@ Teaching DSA questions with our teammates, sharing expertise through [iCodeGuru]
 - **Workshop:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/970843695209248/)
 
 
-## FAANG Interview Preparation Workshops
+## FAANG Interview Preparation Workshops [Watch on Facebook](https://www.facebook.com/share/p/1AEKihwC8P/)
 - **Workshop Day 1:** [Watch on Facebook](https://www.facebook.com/watch/?v=630867489654045)
 - **Workshop Day 2:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/1378553226655184)
 
