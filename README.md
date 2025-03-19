@@ -35,6 +35,8 @@ Teaching DSA questions with our teammates, sharing expertise through [iCodeGuru]
 
 ### 📅 Workshop Recordings:  
 - **Day 1:** [Watch on Facebook](https://www.facebook.com/watch/?v=630867489654045)  
-- **Day 2:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/1378553226655184)  
+- **Day 2:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/1378553226655184)
+- **Day 3:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/630479876570227/)  
+  
 
   
