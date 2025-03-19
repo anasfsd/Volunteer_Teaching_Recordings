@@ -1,6 +1,6 @@
-## FAANG Interview Preparation Workshops 📢 
+## FAANG Interview Preparation Workshops  
 
-**Announcement:** [View on Facebook](https://www.facebook.com/share/p/1AEKihwC8P/) 
+📢**Announcement:** [View on Facebook](https://www.facebook.com/share/p/1AEKihwC8P/) 
 
 We are conducting FAANG Interview Preparation Workshops, where participants can not only watch the recordings but also actively participate, solve coding questions, and receive help from our mentors! 
 
