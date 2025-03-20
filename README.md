@@ -2,7 +2,7 @@
 
 📢**Announcement:** [View on Facebook](https://www.facebook.com/share/p/1AEKihwC8P/) 
 
-We are conducting FAANG Interview Preparation Workshops, where participants can not only watch the recordings but also actively participate, solve coding questions, and receive help from our mentors! 
+We are conducting FAANG Interview Preparation Workshops, where participants can not only watch the Lectures but also actively participate, solve coding questions, and receive help from our mentors! 
 
 ### 📅 Workshop Recordings: 
 - **Day 1:** [Watch on Facebook](https://www.facebook.com/watch/?v=630867489654045)
