@@ -9,6 +9,7 @@ We are conducting FAANG Interview Preparation Workshops, where participants can 
 - **Day 2:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/1378553226655184)
 - **Day 3:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/630479876570227/)
 - **Day 4:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/631661796150568/)
+- **Day 5:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/1281699759596162/)
 
 
 
