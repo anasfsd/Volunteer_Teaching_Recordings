@@ -39,7 +39,7 @@ I teach DSA questions with my teammates.Join us in teaching Data Structures & Al
 - **Lecture 2:** [Watch on Facebook](https://www.facebook.com/share/v/1HcnE3hGkF/)
 - **Lecture 3:** [Watch on Facebook](https://www.facebook.com/share/v/15sLoLWrJy/)
 - **Lecture 4:** [Watch on Facebook](https://www.facebook.com/share/v/1aLncZ9fXc/)
-- **Lecture 5:** [Watch on Facebook](https://www.facebook.com/share/v/16DKnM9eTc/) 2nd Question
+- **Lecture 5:** [Watch on Facebook](https://www.facebook.com/share/v/16DKnM9eTc/) 
 - **Lecture 6:** [Watch on Facebook](https://www.facebook.com/share/v/1BuimWsAYb/)
 - **Lecture 7:** [Watch on Facebook](https://www.facebook.com/share/v/1AS7H8jc9C/)
 - **Lecture 8:** [Watch on Facebook](https://www.facebook.com/share/v/1BMBaAFct2/)
