@@ -30,6 +30,13 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 - **Workshop:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/970843695209248/)
 
 
+## How to Write Effective Prompts
+
+📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-ai-python-activity-7313910359126392835-odz8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
+
+- **Workshop:** 
+
+
 # Volunteer Teaching Recordings
 
 I teach DSA questions with my teammates.Join us in teaching Data Structures & Algorithms (DSA) and solving LeetCode questions alongside our passionate teammates. Share knowledge, collaborate, and help others excel in coding interviews!
