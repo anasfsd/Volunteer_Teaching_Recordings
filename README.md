@@ -7,6 +7,7 @@ I teach DSA questions with my teammates.Join us in teaching Data Structures & Al
 ## LeetCode Lectures  
 - **Day 1:** [Watch on Facebook](https://www.facebook.com/share/v/1BiFZT16dm/)
 - **Day 2:** [Watch on Facebook](https://www.facebook.com/share/v/1AD5qAqVrn/)
+- **Day 3:** [Watch on Facebook](https://www.facebook.com/share/v/1ABV32pCZS/)
 
 
 ## FAANG Interview Preparation Workshops  
