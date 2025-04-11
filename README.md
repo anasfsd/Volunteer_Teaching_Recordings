@@ -33,8 +33,6 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 
 📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-techworkshops-matplotlib-activity-7303767490189217792-wPRv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
 
-  - **Workshop:** [Watch on Facebook](https://www.facebook.com/share/v/1BGwSQ8BSh/)
-
 
 ## Web Scraping Workshops
 
@@ -62,12 +60,6 @@ I teach DSA questions with my teammates.Join us in teaching Data Structures & Al
 
 ## LeetCode Lectures  
 - **Lecture 1:** [Watch on Facebook](https://www.facebook.com/watch/?v=1848412722678920)
-- **Lecture 2:** [Watch on Facebook](https://www.facebook.com/share/v/1HcnE3hGkF/)
-- **Lecture 3:** [Watch on Facebook](https://www.facebook.com/share/v/15sLoLWrJy/)
-- **Lecture 4:** [Watch on Facebook](https://www.facebook.com/share/v/1aLncZ9fXc/)
-- **Lecture 5:** [Watch on Facebook](https://www.facebook.com/share/v/16DKnM9eTc/) 
-- **Lecture 6:** [Watch on Facebook](https://www.facebook.com/share/v/1BuimWsAYb/)
-- **Lecture 7:** [Watch on Facebook](https://www.facebook.com/share/v/1AS7H8jc9C/)
-- **Lecture 8:** [Watch on Facebook](https://www.facebook.com/share/v/1BMBaAFct2/)
+- **Lecture 2:** [Watch on Facebook](https://www.facebook.com/share/v/1BMBaAFct2/)
 
   
