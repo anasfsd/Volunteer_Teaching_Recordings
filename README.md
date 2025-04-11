@@ -49,6 +49,12 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 
 - **Workshop:** [Watch on Facebook](https://www.facebook.com/share/v/1NP3jiKWGd/)
 
+## Webinar: Calico Coding Competition Spring 2025 (University of California, Berkeley)
+
+📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/muhammad-anas-744830270_webinar-calicospring25-codingcontest-activity-7315963468241625090-gxFQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
+
+- **Workshop:** 
+
 
 # Volunteer Teaching Recordings
 
