@@ -19,12 +19,12 @@ I teach DSA questions with my teammates.Join us in teaching Data Structures & Al
 We are conducting a 7 day FAANG Interview Preparation Workshop, where participants can not only watch lectures but also actively participate, solve coding questions, and receive help from our mentors!
 
 ### 📅 Workshop Recordings: 
-- **Day 1:** [Watch on Facebook](https://www.facebook.com/watch/?v=630867489654045)
-- **Day 2:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/1378553226655184)
-- **Day 3:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/630479876570227/)
-- **Day 4:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/631661796150568/)
-- **Day 5:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/1281699759596162/)
-- **Day 6:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/1365050891167698/)
+- **Day 1:** [Watch on Facebook](https://www.youtube.com/watch?v=rGssYmnvEH0&list=PL938EHhrSDfEbQJ11_R_iLjdYTndmY9JR)
+- **Day 2:** [Watch on Facebook](https://www.youtube.com/watch?v=BD1PLcmH_Ag&list=PL938EHhrSDfEbQJ11_R_iLjdYTndmY9JR&index=2)
+- **Day 3:** [Watch on Facebook](https://www.youtube.com/watch?v=-CL9Jw9sHiU&list=PL938EHhrSDfEbQJ11_R_iLjdYTndmY9JR&index=3)
+- **Day 4:** [Watch on Facebook](https://www.youtube.com/watch?v=K5gGwDYehqE&list=PL938EHhrSDfEbQJ11_R_iLjdYTndmY9JR&index=4)
+- **Day 5:** [Watch on Facebook](https://www.youtube.com/watch?v=D_9Dp6ZWtc8&list=PL938EHhrSDfEbQJ11_R_iLjdYTndmY9JR&index=5)
+- **Day 6:** [Watch on Facebook](https://www.youtube.com/watch?v=3Ju5a2N8SxQ&list=PL938EHhrSDfEbQJ11_R_iLjdYTndmY9JR&index=6)
 
 
 
@@ -39,7 +39,7 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 
 📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/muhammad-anas-744830270_icodeguru-workshops-webscraping-activity-7306315789366714369-F-Dr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
 
-- **Workshop:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/970843695209248/)
+- **Workshop:** [Watch on Youtube](https://www.youtube.com/watch?v=P51m6LHqZls)
 
 
 ## How to Write Effective Prompts
