@@ -46,7 +46,7 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 
 📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-ai-python-activity-7313910359126392835-odz8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
 
-- **Workshop:** [Watch on Facebook](https://www.facebook.com/share/v/1NP3jiKWGd/)
+- **Workshop:** [Watch on Youtube](https://www.youtube.com/watch?v=H9dO0ZiHZUk)
 
 ## Webinar: Calico Coding Competition Spring 2025 (University of California, Berkeley)
 
