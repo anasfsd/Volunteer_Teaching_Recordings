@@ -52,7 +52,7 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 
 📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/muhammad-anas-744830270_webinar-calicospring25-codingcontest-activity-7315963468241625090-gxFQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
 
-- **Workshop:**[Watch On Youtube](https://youtu.be/JdgvDJQ9HrM)
+- **Workshop:**[Watch On Youtube](https://www.youtube.com/watch?v=JdgvDJQ9HrM&list=PL938EHhrSDfFMbs3XeAbW5j_Ll86LfqUE)
 
 
 # Volunteer Teaching Recordings
