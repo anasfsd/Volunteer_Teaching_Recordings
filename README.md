@@ -52,12 +52,12 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 
 📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/muhammad-anas-744830270_webinar-calicospring25-codingcontest-activity-7315963468241625090-gxFQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
 
-- **Workshop:**[Watch On Drive](https://drive.google.com/file/d/1W1xbLpop3T2g3pbhISMviHcBrV0rxVcD/view?usp=sharing)
+- **Workshop:**[Watch On Youtube](https://youtu.be/JdgvDJQ9HrM)
 
 
 # Volunteer Teaching Recordings
 
-I teach DSA questions with my teammates.Join us in teaching Data Structures & Algorithms (DSA) and solving LeetCode questions alongside our passionate teammates. Share knowledge, collaborate, and help others excel in coding interviews!
+I teach DSA questions with my teammates. Join us in teaching Data Structures & Algorithms (DSA) and solving LeetCode questions alongside our passionate teammates. Share knowledge, collaborate, and help others excel in coding interviews!
 
 ## LeetCode Lectures  
 - **Lecture 1:** [Watch on Facebook](https://www.facebook.com/watch/?v=1848412722678920)
