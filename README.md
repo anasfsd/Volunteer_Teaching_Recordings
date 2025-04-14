@@ -61,6 +61,10 @@ I teach DSA questions with my teammates. Join us in teaching Data Structures & A
 
 ## LeetCode Lectures  
 - **Lecture 1:** [Watch on Facebook](https://www.facebook.com/watch/?v=1848412722678920)
-- **Lecture 2:** [Watch on Facebook](https://www.facebook.com/share/v/1BMBaAFct2/)
+- **Lecture 2:** [Watch on Youtube](https://www.youtube.com/watch?v=eZECnedF6qc&list=PL938EHhrSDfFB7Yem8ssQ6nx_4Yn39u1w&index=6)
+- **Lecture 3:** [Watch on Youtube](https://www.youtube.com/watch?v=tB2uKqWieRY&list=PL938EHhrSDfFB7Yem8ssQ6nx_4Yn39u1w&index=7)
+- **Lecture 4:** [Watch on Youtube](https://www.youtube.com/watch?v=AHG9ZkaxZQo&list=PL938EHhrSDfFB7Yem8ssQ6nx_4Yn39u1w&index=8)
+- **Lecture 5:** [Watch on Youtube](https://www.youtube.com/watch?v=4BOU1Ssuf3o&list=PL938EHhrSDfFB7Yem8ssQ6nx_4Yn39u1w&index=9)
+- **Lecture 6:** [Watch on Youtube](https://www.youtube.com/watch?v=yLPJmmG9u88&list=PL938EHhrSDfFB7Yem8ssQ6nx_4Yn39u1w&index=10)
 
   
