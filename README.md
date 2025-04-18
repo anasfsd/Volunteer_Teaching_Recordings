@@ -20,7 +20,7 @@ I teach DSA questions with my teammates.Join us in teaching Data Structures & Al
 
 📢**Announcement:** [View on Facebook](https://www.facebook.com/share/p/1AEKihwC8P/) 
 
-We are conducting a 7 day FAANG Interview Preparation Workshop, where participants can not only watch lectures but also actively participate, solve coding questions, and receive help from our mentors!
+We are conducting a 7 day FAANG Interview Preparation Workshop, where participants can not only watch lectures but also actively participate, solve coding questions, and receive help from our Trainers!
 
 ### 📅 Workshop Recordings: 
 - **Day 1:** [Watch on Youtube](https://www.youtube.com/watch?v=rGssYmnvEH0&list=PL938EHhrSDfEbQJ11_R_iLjdYTndmY9JR)
