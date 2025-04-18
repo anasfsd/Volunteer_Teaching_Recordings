@@ -12,7 +12,8 @@ I teach DSA questions with my teammates.Join us in teaching Data Structures & Al
 - **Day 5:** [Watch on Facebook](https://www.facebook.com/share/v/1EE124ypsL/)
 - **Day 6:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/1925445681598809/)
 - **Day 7:** [Watch on Facebook](https://www.facebook.com/share/v/1AFB31XnBC/)
--  **Day 8:** [Watch on Facebook](https://www.facebook.com/share/v/1FwWvQxZKT/)
+- **Day 8:** [Watch on Facebook](https://www.facebook.com/share/v/1FwWvQxZKT/)
+- **Day 9:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/654580477469610/)
 
 
 ## FAANG Interview Preparation Workshops  
