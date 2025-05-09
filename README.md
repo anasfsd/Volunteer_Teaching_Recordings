@@ -49,6 +49,7 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 ## Machine Learning Workshops
 
 📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-techworkshops-matplotlib-activity-7303767490189217792-wPRv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
+- **Day 1:** [Watch on Youtube](https://www.youtube.com/watch?v=uLpqlZdX1mo)
 
 
 ## Web Scraping Workshops
