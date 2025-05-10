@@ -72,6 +72,14 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 - **Workshop:**[Watch On Youtube](https://www.youtube.com/watch?v=JdgvDJQ9HrM&list=PL938EHhrSDfFMbs3XeAbW5j_Ll86LfqUE)
 
 
+  ##𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙖 𝙏𝙝𝙚𝙤𝙧𝙮 𝙀𝙨𝙨𝙚𝙣𝙩𝙞𝙖𝙡𝙨: 𝙏𝙝𝙚 𝙃𝙚𝙖𝙧𝙩 𝙤𝙛 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚
+  📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-computationalphysics-javascript-activity-7326591889002975234-BBGI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)
+
+- **Workshop:**[Watch On Facebook]
+  
+   
+
+
 # Volunteer Teaching Recordings
 
 I teach DSA questions with my teammates. Join us in teaching Data Structures & Algorithms (DSA) and solving LeetCode questions alongside our passionate teammates. Share knowledge, collaborate, and help others excel in coding interviews!
