@@ -75,7 +75,7 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 ## Automata Theory Essentials: The Heart Of Computer Science
 📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-computationalphysics-javascript-activity-7326591889002975234-BBGI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)
 
-- **Workshop:**
+- **Workshop:**[https://www.facebook.com/share/v/1CnuCq9vQA/]
   
    
 
