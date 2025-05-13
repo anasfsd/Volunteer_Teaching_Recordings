@@ -1,5 +1,5 @@
 ## Due to Meta’s new policy, live videos on Facebook are automatically deleted after one month. To ensure continued access, some of our lectures have been uploaded to YouTube. Thank you for your understanding! 
-**Meta Annoucement:** [Meta Annoucement](https://about.fb.com/news/2025/02/updating-our-facebook-live-video-storage-policy/)
+**Meta Annoucement:** [See Annoucement](https://about.fb.com/news/2025/02/updating-our-facebook-live-video-storage-policy/)
 
 # Volunteer Teaching Recordings
 
