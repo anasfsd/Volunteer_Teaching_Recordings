@@ -1,3 +1,6 @@
+#Due to Meta’s new policy, Live videos are automatically deleted after one month. That’s why some of the lectures are uploaded to YouTube for permanent access. Thank you for your support!
+
+
 # Volunteer Teaching Recordings
 
 📢**Announcement:** [View on Facebook](https://www.facebook.com/photo?fbid=1261003692697775&set=a.260463502751804) 
