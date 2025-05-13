@@ -92,5 +92,6 @@ I teach DSA questions with my teammates. Join us in teaching Data Structures & A
 - **Lecture 4:** [Watch on Youtube](https://www.youtube.com/watch?v=AHG9ZkaxZQo&list=PL938EHhrSDfFB7Yem8ssQ6nx_4Yn39u1w&index=8)
 - **Lecture 5:** [Watch on Youtube](https://www.youtube.com/watch?v=4BOU1Ssuf3o&list=PL938EHhrSDfFB7Yem8ssQ6nx_4Yn39u1w&index=9)
 - **Lecture 6:** [Watch on Youtube](https://www.youtube.com/watch?v=yLPJmmG9u88&list=PL938EHhrSDfFB7Yem8ssQ6nx_4Yn39u1w&index=10)
+- **Lecture 7:** [Watch on Facebook](https://www.facebook.com/watch/?v=1207502047827912)
 
   
