@@ -5,7 +5,7 @@
 I teach DSA questions with my teammates.Join us in teaching Data Structures & Algorithms (DSA) and solving LeetCode questions alongside our passionate teammates. Share knowledge, collaborate, and help others excel in coding interviews!
 
 ## LeetCode Lectures  
-- **Day 1:** [Watch on Facebook](https://www.facebook.com/share/v/1BiFZT16dm/)
+- **Day 1:** [Watch on Youtube](https://www.youtube.com/watch?v=NYxT-BdZ0ro&t=894s)
 - **Day 2:** [Watch on Facebook](https://www.facebook.com/share/v/1AD5qAqVrn/)
 - **Day 3:** [Watch on Facebook](https://www.facebook.com/share/v/1ABV32pCZS/)
 - **Day 4:** [Watch on Facebook](https://www.facebook.com/watch?v=2915010668677975)
