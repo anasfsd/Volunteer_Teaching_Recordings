@@ -85,10 +85,9 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
    
 
 
-# Volunteer Teaching Recordings
+# BootCamp Recordings
 
-I teach DSA questions with my teammates. Join us in teaching Data Structures & Algorithms (DSA) and solving LeetCode questions alongside our passionate teammates. Share knowledge, collaborate, and help others excel in coding interviews!
-
+I teach DSA questions with my teammates, covering 500 important questions commonly asked in FAANG interviews
 ## LeetCode Lectures  
 - **Lecture 1:** [Watch on Facebook](https://www.facebook.com/watch/?v=1848412722678920)
 - **Lecture 2:** [Watch on Youtube](https://www.youtube.com/watch?v=eZECnedF6qc&list=PL938EHhrSDfFB7Yem8ssQ6nx_4Yn39u1w&index=6)
@@ -97,5 +96,7 @@ I teach DSA questions with my teammates. Join us in teaching Data Structures & A
 - **Lecture 5:** [Watch on Youtube](https://www.youtube.com/watch?v=4BOU1Ssuf3o&list=PL938EHhrSDfFB7Yem8ssQ6nx_4Yn39u1w&index=9)
 - **Lecture 6:** [Watch on Youtube](https://www.youtube.com/watch?v=yLPJmmG9u88&list=PL938EHhrSDfFB7Yem8ssQ6nx_4Yn39u1w&index=10)
 - **Lecture 7:** [Watch on Facebook](https://www.facebook.com/watch/?v=1207502047827912)
+- **Lecture 8:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/711003761638816/)
+- **Lecture 9:** [Watch on Facebook](https://www.facebook.com/share/v/15SUHm3W4A/)
 
   
