@@ -87,7 +87,8 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 
 # BootCamp Recordings
 
-I teach DSA questions with my teammates, covering 500 important questions commonly asked in FAANG interviews
+I teach Data Structures and Algorithms (DSA) with my teammates, participating in various bootcamps where we cover 500 important questions commonly asked in FAANG interviews
+
 ## LeetCode Lectures  
 - **Lecture 1:** [Watch on Facebook](https://www.facebook.com/watch/?v=1848412722678920)
 - **Lecture 2:** [Watch on Youtube](https://www.youtube.com/watch?v=eZECnedF6qc&list=PL938EHhrSDfFB7Yem8ssQ6nx_4Yn39u1w&index=6)
