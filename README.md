@@ -101,5 +101,6 @@ I teach Data Structures and Algorithms (DSA) with my teammates, participating in
 - **Lecture 7:** [Watch on Facebook](https://www.facebook.com/watch/?v=1207502047827912)
 - **Lecture 8:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/711003761638816/)
 - **Lecture 9:** [Watch on Facebook](https://www.facebook.com/share/v/15SUHm3W4A/)
+- **Lecture 10:** [Watch on Facebook](https://www.facebook.com/share/v/1WHXHZ5CwL/)
 
   
