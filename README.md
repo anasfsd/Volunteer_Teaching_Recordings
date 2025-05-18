@@ -108,7 +108,7 @@ I teach Data Structures and Algorithms (DSA) with my teammates, participating in
 - **Lecture 10:** [Watch on Facebook](https://www.facebook.com/share/v/1WHXHZ5CwL/)
 
   
-## Moderator Role
+## Moderator Roles
 📢 **Announcement 1:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-freecourses-techworkshops-activity-7324055518388330496-JKYB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)
 
 📢 **Announcement 2:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-greprep-pythonforeveryone-activity-7329126466254725120-wjxL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)
