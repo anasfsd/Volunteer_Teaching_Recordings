@@ -125,3 +125,6 @@ I teach Data Structures and Algorithms (DSA) with my teammates, participating in
 📢 **Announcement 1:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-freecourses-techworkshops-activity-7324055518388330496-JKYB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)
 
 📢 **Announcement 2:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-greprep-pythonforeveryone-activity-7329126466254725120-wjxL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)
+
+📢 **Announcement 3:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-pythoncrashcourse-googleinterviewpreparation-activity-7341820506041479171-Xz9W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)
+
