@@ -91,7 +91,7 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
   
 - 📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/muhammad-anas-744830270_automata-theoryofcomputation-icodeguru-activity-7333884112870490112-qr4S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)
 
-- Stanford, Calico, and Harvard Puzzle Day encourage students to participate in this exciting initiative.
+  ## Stanford, Calico, and Harvard Puzzle Day encourage students to participate in this exciting initiative.
 
 - **Workshop:**[Watch On Facebook](https://www.facebook.com/iCodeguru/videos/551867937860994/)
 
