@@ -95,7 +95,7 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 
 - **Workshop:**[Watch On Facebook](https://www.facebook.com/iCodeguru/videos/551867937860994/)
 
-#Weekly Workshop on Advanced Graphs
+## Weekly Workshop on Advanced Graphs
 I participate in a weekly workshop where we learn about graphs and solve graph-related questions. I also teach DFS and BFS
 - **Workshop:**[Watch On Facebook](https://www.facebook.com/iCodeguru/videos/2207569923026882)
 
