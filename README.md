@@ -80,9 +80,6 @@ In which lecture were there two trainers [Nazia Khan](https://www.linkedin.com/i
 
 - **Lecture:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/3636691553291925/)
 
-📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-ai-python-activity-7313910359126392835-odz8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
-
-- **Workshop:** [Watch on Youtube](https://www.youtube.com/watch?v=H9dO0ZiHZUk)
 
 ## Webinar: Calico Coding Competition Spring 2025 (University of California, Berkeley)
 
