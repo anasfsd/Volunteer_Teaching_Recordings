@@ -54,7 +54,7 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 ## LeetCode Practice For FAANG
 📢**Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-leetcodepractice-dsaforbeginners-activity-7349438254573637632-7s13?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA) 
 
-I’m excited to share that I’m teaching Data Structures & Algorithms (DSA) along with my amazing teammate [Nazia Khan](https://www.linkedin.com/in/nazia-khan-02588312a/) We’re solving LeetCode questions, breaking down tough concepts, and helping others get better at coding interviews.
+I’m excited to share that I’m teaching Data Structures & Algorithms (DSA) along with my best teammate [Nazia Khan](https://www.linkedin.com/in/nazia-khan-02588312a/) We’re solving LeetCode questions, breaking down tough concepts, and helping others get better at coding interviews.
 
 
 ## Machine Learning Workshops
