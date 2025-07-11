@@ -1,6 +1,14 @@
 ## Due to Meta’s new policy, live videos on Facebook are automatically deleted after one month. To ensure continued access, some of our lectures have been uploaded to YouTube. Thank you for your understanding! 
 **Meta Annoucement:** [See Annoucement](https://about.fb.com/news/2025/02/updating-our-facebook-live-video-storage-policy/)
 
+
+## LeetCode Practice For FAANG
+📢**Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-leetcodepractice-dsaforbeginners-activity-7349438254573637632-7s13?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA) 
+
+I’m excited to share that I’m teaching Data Structures & Algorithms (DSA) along with my best teammate [Nazia Khan](https://www.linkedin.com/in/nazia-khan-02588312a/) We’re solving LeetCode questions, breaking down tough concepts, and helping others get better at coding interviews.
+
+
+
 # Volunteer Teaching Recordings
 
 📢**Announcement:** [View on Facebook](https://www.facebook.com/photo?fbid=1261003692697775&set=a.260463502751804) 
@@ -51,10 +59,6 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 - **Day 5:** [Watch on Youtube](https://www.youtube.com/watch?v=D_9Dp6ZWtc8&list=PL938EHhrSDfEbQJ11_R_iLjdYTndmY9JR&index=5)
 - **Day 6:** [Watch on Youtube](https://www.youtube.com/watch?v=3Ju5a2N8SxQ&list=PL938EHhrSDfEbQJ11_R_iLjdYTndmY9JR&index=6)
 
-## LeetCode Practice For FAANG
-📢**Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-leetcodepractice-dsaforbeginners-activity-7349438254573637632-7s13?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA) 
-
-I’m excited to share that I’m teaching Data Structures & Algorithms (DSA) along with my best teammate [Nazia Khan](https://www.linkedin.com/in/nazia-khan-02588312a/) We’re solving LeetCode questions, breaking down tough concepts, and helping others get better at coding interviews.
 
 
 ## Machine Learning Workshops
