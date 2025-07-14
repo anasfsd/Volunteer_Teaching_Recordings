@@ -113,6 +113,10 @@ In which lecture were there two trainers [Nazia Khan](https://www.linkedin.com/i
 I participate in a weekly workshop where we learn about graphs and solve graph-related questions. I also teach DFS and BFS
 - **Workshop:**[Watch On Facebook](https://www.facebook.com/iCodeguru/videos/2207569923026882)
 
+## Agentic AI Class
+In which lecture were there two trainers [Nazia Khan](https://www.linkedin.com/in/nazia-khan-02588312a/) and myself.
+
+- **Lecture:**[Watch On Youtube](https://www.youtube.com/watch?v=Bv9bdNHrXR8)
 
 # BootCamp Recordings
 
