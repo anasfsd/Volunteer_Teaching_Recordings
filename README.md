@@ -8,6 +8,7 @@
 I’m excited to share that I’m teaching Data Structures & Algorithms (DSA) along with my best teammate [Nazia Khan](https://www.linkedin.com/in/nazia-khan-02588312a/) We’re solving LeetCode questions, breaking down tough concepts, and helping others get better at coding interviews.
 
 - **Day 1:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/586695861180981/)
+- **Day 2:** [Watch on Facebook](https://www.facebook.com/watch?v=2222503534872141&_rdc=1&_rdr#)
 
 
 # Volunteer Teaching Recordings
