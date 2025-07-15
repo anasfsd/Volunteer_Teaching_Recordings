@@ -115,7 +115,7 @@ I participate in a weekly workshop where we learn about graphs and solve graph-r
 - **Workshop:**[Watch On Facebook](https://www.facebook.com/iCodeguru/videos/2207569923026882)
 
 ## Agentic AI Class
-In which lecture were there two trainers [Nazia Khan](https://www.linkedin.com/in/nazia-khan-02588312a/) and myself.
+In this lecture, we are two trainers,[Nazia Khan](https://www.linkedin.com/in/nazia-khan-02588312a/) and I.
 
 - **Lecture:**[Watch On Youtube](https://www.youtube.com/watch?v=Bv9bdNHrXR8)
 
