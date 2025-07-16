@@ -9,6 +9,7 @@ I’m excited to share that I’m teaching Data Structures & Algorithms (DSA) al
 
 - **Day 1:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/586695861180981/)
 - **Day 2:** [Watch on Facebook](https://www.facebook.com/watch?v=2222503534872141&_rdc=1&_rdr#)
+- **Day 3:** [Watch on Facebook](https://www.facebook.com/watch/?v=4100932673509895)
 
 
 # Volunteer Teaching Recordings
