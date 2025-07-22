@@ -5,7 +5,7 @@
 ## LeetCode Practice For FAANG
 📢**Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-leetcodepractice-dsaforbeginners-activity-7349438254573637632-7s13?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA) 
 
-I’m excited to share that I’m teaching Data Structures & Algorithms (DSA) along with my best teammate [Nazia Khan](https://www.linkedin.com/in/nazia-khan-02588312a/) We’re solving LeetCode questions, breaking down tough concepts, and helping others get better at coding interviews.
+I’m excited to share that I’m teaching Data Structures & Algorithms (DSA) along with my best teammate [Nazia Ramzan](https://www.linkedin.com/in/nazia-khan-02588312a/) We’re solving LeetCode questions, breaking down tough concepts, and helping others get better at coding interviews.
 
 - **Day 1:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/586695861180981/)
 - **Day 2:** [Watch on Facebook](https://www.facebook.com/watch?v=2222503534872141&_rdc=1&_rdr#)
@@ -92,7 +92,7 @@ We are conducting a 7 day FAANG Interview Preparation Workshop, where participan
 
 ## How to Write Effective Prompts 2 :
 
-In which lecture were there two trainers [Nazia Khan](https://www.linkedin.com/in/nazia-khan-02588312a/) and myself. Miss Nazia taught Prompt Engineering, and at the end, I taught how to build an application using Prompt Engineering and how to deploy it on Hugging Face:
+In which lecture were there two trainers [Nazia Ramzan](https://www.linkedin.com/in/nazia-khan-02588312a/) and myself. Miss Nazia taught Prompt Engineering, and at the end, I taught how to build an application using Prompt Engineering and how to deploy it on Hugging Face:
 
 - **Lecture:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/3636691553291925/)
 
@@ -123,7 +123,7 @@ I participate in a weekly workshop where we learn about graphs and solve graph-r
 - **Workshop:**[Watch On Facebook](https://www.facebook.com/iCodeguru/videos/2207569923026882)
 
 ## Agentic AI Class
-In this lecture, we are two trainers,[Nazia Khan](https://www.linkedin.com/in/nazia-khan-02588312a/) and I.
+In this lecture, we are two trainers,[Nazia Ramzan](https://www.linkedin.com/in/nazia-khan-02588312a/) and I.
 
 - **Lecture:**[Watch On Youtube](https://www.youtube.com/watch?v=Bv9bdNHrXR8)
 
