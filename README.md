@@ -27,6 +27,9 @@ I’m excited to share that I’m teaching Data Structures & Algorithms (DSA) al
 - **Day 18:** [Watch on Facebook](https://www.facebook.com/share/v/1G8tFgStfL/)
 - **Day 19:** [Watch on Facebook](https://www.facebook.com/share/v/1Cp6nbgXvy/)
 - **Day 20:** [Watch on Facebook](https://www.facebook.com/watch/?v=1437525164233867&rdid=hF2tWERJy1FtsqHJ)
+- **Day 21:** [Watch on Facebook](https://www.facebook.com/share/v/1BH9g5brg1/)
+- **Day 22:** [Watch on Facebook](https://www.facebook.com/share/v/175DgGWr9D/)
+
 
 
 
