@@ -39,30 +39,8 @@ I teach DSA questions with my teammates.Join us in teaching Data Structures & Al
 - **Day 29:** [Watch on Facebook](https://www.facebook.com/share/v/16ArRtScT5/)
 
 
-## Machine Learning Workshops
-
-📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-techworkshops-matplotlib-activity-7303767490189217792-wPRv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
-- **Workshop:** [Watch on Youtube](https://www.youtube.com/watch?v=uLpqlZdX1mo)
 
 
-## Web Scraping Workshops
-
-📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/muhammad-anas-744830270_icodeguru-workshops-webscraping-activity-7306315789366714369-F-Dr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
-
-- **Workshop:** [Watch on Youtube](https://www.youtube.com/watch?v=P51m6LHqZls)
-
-
-## How to Write Effective Prompts
-
-📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-ai-python-activity-7313910359126392835-odz8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
-
-- **Workshop:** [Watch on Youtube](https://www.youtube.com/watch?v=H9dO0ZiHZUk)
-
-## How to Write Effective Prompts 2 :
-
-In which lecture were there two trainers [Nazia Ramzan](https://www.linkedin.com/in/nazia-khan-02588312a/) and myself. Miss Nazia taught Prompt Engineering, and at the end, I taught how to build an application using Prompt Engineering and how to deploy it on Hugging Face:
-
-- **Lecture:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/3636691553291925/)
 
 
 ## Webinar: Calico Coding Competition Spring 2025 (University of California, Berkeley)
