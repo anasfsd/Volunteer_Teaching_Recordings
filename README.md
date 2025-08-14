@@ -43,26 +43,7 @@ I teach DSA questions with my teammates.Join us in teaching Data Structures & Al
 
 
 
-## Webinar: Calico Coding Competition Spring 2025 (University of California, Berkeley)
 
-📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/muhammad-anas-744830270_webinar-calicospring25-codingcontest-activity-7315963468241625090-gxFQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)  
-
-- **Workshop:**[Watch On Youtube](https://www.youtube.com/watch?v=JdgvDJQ9HrM&list=PL938EHhrSDfFMbs3XeAbW5j_Ll86LfqUE)
-
-
-## Automata Theory Essentials: The Heart Of Computer Science
-### In this workshop, I offer students the opportunity if they want to learn all machines working in Automata. Then I am ready to conduct a 7-day workshop.
-
- 
-📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-computationalphysics-javascript-activity-7326591889002975234-BBGI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)
-
-- **Workshop:**[Watch On Facebook](https://www.facebook.com/share/v/1CnuCq9vQA/)
-  
-- 📢 **Announcement:** [View on Linkedin](https://www.linkedin.com/posts/muhammad-anas-744830270_automata-theoryofcomputation-icodeguru-activity-7333884112870490112-qr4S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA)
-
-  ## Stanford, Calico, and Harvard Puzzle Day encourage students to participate in this exciting initiative.
-
-- **Workshop:**[Watch On Facebook](https://www.facebook.com/iCodeguru/videos/551867937860994/)
 
 ## Weekly Workshop on Advanced Graphs
 I participate in a weekly workshop where we learn about graphs and solve graph-related questions. I also teach DFS and BFS
