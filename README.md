@@ -55,7 +55,7 @@ In this lecture, we are two trainers,[Nazia Ramzan](https://www.linkedin.com/in/
 - **Lecture:**[Watch On Youtube](https://www.youtube.com/watch?v=Bv9bdNHrXR8)
 
 
-## Hackathon I
+## Hackathon 
 
 - **Lecture 1:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/752589184242617/)
 
