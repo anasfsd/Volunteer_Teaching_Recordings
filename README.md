@@ -54,6 +54,11 @@ In this lecture, we are two trainers,[Nazia Ramzan](https://www.linkedin.com/in/
 
 - **Lecture:**[Watch On Youtube](https://www.youtube.com/watch?v=Bv9bdNHrXR8)
 
+
+## Hackathon I
+
+- **Lecture 1:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/752589184242617/)
+
 # BootCamp Recordings
 
 I teach Data Structures and Algorithms (DSA) with my teammates, participating in various bootcamps where we cover 500 important questions commonly asked in FAANG interviews
